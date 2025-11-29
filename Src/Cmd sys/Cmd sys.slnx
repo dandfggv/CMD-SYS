@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="CmdSys.csproj" />
+    <File Path="MainForm.cs" />
+    <File Path="MainForm.Designer.cs" />
+    <File Path="Program.cs" />
+  </Folder>
+</Solution>

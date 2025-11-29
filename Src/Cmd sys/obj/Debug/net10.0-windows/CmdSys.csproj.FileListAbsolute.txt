@@ -1,0 +1,14 @@
+F:\Repos\CMD-SYS\Src\Cmd sys\bin\Debug\net10.0-windows\CmdSys.exe
+F:\Repos\CMD-SYS\Src\Cmd sys\bin\Debug\net10.0-windows\CmdSys.deps.json
+F:\Repos\CMD-SYS\Src\Cmd sys\bin\Debug\net10.0-windows\CmdSys.runtimeconfig.json
+F:\Repos\CMD-SYS\Src\Cmd sys\bin\Debug\net10.0-windows\CmdSys.dll
+F:\Repos\CMD-SYS\Src\Cmd sys\bin\Debug\net10.0-windows\CmdSys.pdb
+F:\Repos\CMD-SYS\Src\Cmd sys\obj\Debug\net10.0-windows\CmdSys.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\CMD-SYS\Src\Cmd sys\obj\Debug\net10.0-windows\CmdSys.AssemblyInfoInputs.cache
+F:\Repos\CMD-SYS\Src\Cmd sys\obj\Debug\net10.0-windows\CmdSys.AssemblyInfo.cs
+F:\Repos\CMD-SYS\Src\Cmd sys\obj\Debug\net10.0-windows\CmdSys.csproj.CoreCompileInputs.cache
+F:\Repos\CMD-SYS\Src\Cmd sys\obj\Debug\net10.0-windows\CmdSys.dll
+F:\Repos\CMD-SYS\Src\Cmd sys\obj\Debug\net10.0-windows\refint\CmdSys.dll
+F:\Repos\CMD-SYS\Src\Cmd sys\obj\Debug\net10.0-windows\CmdSys.pdb
+F:\Repos\CMD-SYS\Src\Cmd sys\obj\Debug\net10.0-windows\CmdSys.genruntimeconfig.cache
+F:\Repos\CMD-SYS\Src\Cmd sys\obj\Debug\net10.0-windows\ref\CmdSys.dll

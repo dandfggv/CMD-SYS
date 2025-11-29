@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <!-- Target framework: adjust to your installed SDK (net6.0, net8.0, net10.0) -->
+    <TargetFramework>net10.0-windows</TargetFramework>
+
+    <!-- Enable Windows Forms -->
+    <UseWindowsForms>true</UseWindowsForms>
+
+    <!-- Optional: set output type -->
+    <OutputType>WinExe</OutputType>
+
+    <!-- Assembly name -->
+    <AssemblyName>CmdSys</AssemblyName>
+
+    <!-- Root namespace -->
+    <RootNamespace>CmdSys</RootNamespace>
+
+    <!-- Ensure it runs on Windows only -->
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+  </PropertyGroup>
+
+</Project>
