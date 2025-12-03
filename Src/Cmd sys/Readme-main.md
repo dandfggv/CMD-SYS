@@ -26,7 +26,7 @@ Welcome to the **CMD-SYS** project repository. This README file will guide you t
 2. Run the following command to build the project:
 
    ```bash
-    rmdir /s /q bin
+   rmdir /s /q bin
    dotnet build
    dotnet restore
    dotnet run
